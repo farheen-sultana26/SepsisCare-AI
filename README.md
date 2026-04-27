@@ -51,7 +51,7 @@ streamlit run app.py
 ![Login](login.png)
 
 ### 📊 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### 🤖 Prediction Output
 ![Prediction](prediction.png)
