@@ -55,7 +55,6 @@ streamlit run app.py
 
 ### 🤖 Prediction Output
 ![Prediction](prediction.png)
-
 ---
 
 ## 📊 Model Details
@@ -86,3 +85,6 @@ Aspiring AI/ML Engineer
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and share your feedback!
+```bash
+pip install -r requirements.txt
+streamlit run app.py
