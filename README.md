@@ -45,6 +45,19 @@ streamlit run app.py
 
 ---
 
+## 📷 Screenshots
+
+### 🔐 Login Page
+![Login](login.png)
+
+### 📊 Dashboard
+![Dashboard](dashboard.png)
+
+### 🤖 Prediction Output
+![Prediction](prediction.png)
+
+---
+
 ## 📊 Model Details
 
 - Algorithm: XGBoost Classifier  
@@ -73,7 +86,5 @@ Aspiring AI/ML Engineer
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and share your feedback!
-
-```bash
 pip install -r requirements.txt
 streamlit run app.py
