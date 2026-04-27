@@ -1,0 +1,251 @@
+Doctor_ID,Patient_ID,Patient_Name,Age,Diagnosis,Status,Risk,Risk_Prob
+D-001,PT-00000,Aarav Singh,24,Sepsis (stable),Stable,Low,0.114028699696064
+D-002,PT-00001,Diya Sharma,58,Sepsis with multi-organ dysfunction,Stable,Low,0.2887903153896332
+D-003,PT-00002,Kabir Nair,65,Sepsis (monitor closely),Under Observation,Medium,0.6730560064315796
+D-004,PT-00003,Anaya Iyer,76,Septic shock (suspected),Critical,High,0.8448475003242493
+D-005,PT-00004,Vivaan Patel,64,Sepsis (monitor closely),Under Observation,Medium,0.5930753350257874
+D-001,PT-00005,Isha Gupta,66,Sepsis (monitor closely),Under Observation,Medium,0.4383046627044678
+D-002,PT-00006,Arjun Khan,60,Sepsis (stable),Stable,Low,0.3165942132472992
+D-003,PT-00007,Meera Kumar,86,Septic shock (suspected),Critical,High,0.8344973921775818
+D-004,PT-00008,Reyansh Das,41,Septic shock (suspected),Critical,High,0.727322518825531
+D-005,PT-00009,Sara Reddy,69,Sepsis (monitor closely),Under Observation,Medium,0.41034477949142456
+D-001,PT-00010,Aarav Singh,53,Septic shock (suspected),Critical,High,0.8287474513053894
+D-002,PT-00011,Diya Sharma,81,Sepsis (stable),Stable,Low,0.32298800349235535
+D-003,PT-00012,Kabir Nair,58,Sepsis with multi-organ dysfunction,Stable,Low,0.21115553379058838
+D-004,PT-00013,Anaya Iyer,78,Sepsis (monitor closely),Under Observation,Medium,0.4510013163089752
+D-005,PT-00014,Vivaan Patel,89,Sepsis (stable),Stable,Low,0.0965358167886734
+D-001,PT-00015,Isha Gupta,56,Septic shock (suspected),Critical,High,0.8744834065437317
+D-002,PT-00016,Arjun Khan,76,Sepsis with multi-organ dysfunction,Stable,Low,0.16864164173603058
+D-003,PT-00017,Meera Kumar,80,Septic shock (suspected),Critical,High,0.7820228934288025
+D-004,PT-00018,Reyansh Das,76,Sepsis (monitor closely),Under Observation,Medium,0.49131762981414795
+D-005,PT-00019,Sara Reddy,87,Sepsis (monitor closely),Under Observation,Medium,0.42567160725593567
+D-001,PT-00020,Aarav Singh,60,Sepsis (stable),Stable,Low,0.07211043685674667
+D-002,PT-00021,Diya Sharma,93,Sepsis (stable),Stable,Low,0.08770587295293808
+D-003,PT-00022,Kabir Nair,69,Sepsis (stable),Stable,Low,0.18024282157421112
+D-004,PT-00023,Anaya Iyer,56,Sepsis (stable),Stable,Low,0.3664622902870178
+D-005,PT-00024,Vivaan Patel,79,Sepsis (stable),Stable,Low,0.30005571246147156
+D-001,PT-00025,Isha Gupta,86,Sepsis (stable),Stable,Low,0.19010862708091736
+D-002,PT-00026,Arjun Khan,86,Sepsis with multi-organ dysfunction,Under Observation,Medium,0.6885570287704468
+D-003,PT-00027,Meera Kumar,66,Septic shock (suspected),Critical,High,0.7672184109687805
+D-004,PT-00028,Reyansh Das,82,Sepsis with multi-organ dysfunction,Critical,High,0.8707112669944763
+D-005,PT-00029,Sara Reddy,79,Septic shock (suspected),Critical,High,0.7549118995666504
+D-001,PT-00030,Aarav Singh,69,Sepsis (stable),Stable,Low,0.1455286592245102
+D-002,PT-00031,Diya Sharma,75,Sepsis (stable),Stable,Low,0.09777627140283585
+D-003,PT-00032,Kabir Nair,46,Sepsis (stable),Stable,Low,0.08836627751588821
+D-004,PT-00033,Anaya Iyer,40,Sepsis (monitor closely),Under Observation,Medium,0.6577372550964355
+D-005,PT-00034,Vivaan Patel,71,Sepsis (stable),Stable,Low,0.3319329619407654
+D-001,PT-00035,Isha Gupta,85,Septic shock (suspected),Critical,High,0.9326812624931335
+D-002,PT-00036,Arjun Khan,54,Sepsis (stable),Stable,Low,0.18847496807575226
+D-003,PT-00037,Meera Kumar,59,Sepsis (stable),Stable,Low,0.2057461142539978
+D-004,PT-00038,Reyansh Das,64,Sepsis (stable),Stable,Low,0.2025453895330429
+D-005,PT-00039,Sara Reddy,77,Sepsis (stable),Stable,Low,0.3116034269332886
+D-001,PT-00040,Aarav Singh,40,Sepsis (stable),Stable,Low,0.0826852098107338
+D-002,PT-00041,Diya Sharma,91,Septic shock (suspected),Critical,High,0.7788422703742981
+D-003,PT-00042,Kabir Nair,64,Sepsis (stable),Stable,Low,0.23480138182640076
+D-004,PT-00043,Anaya Iyer,76,Sepsis with multi-organ dysfunction,Stable,Low,0.3963562846183777
+D-005,PT-00044,Vivaan Patel,63,Sepsis with multi-organ dysfunction,Stable,Low,0.1348342001438141
+D-001,PT-00045,Isha Gupta,79,Septic shock (suspected),Critical,High,0.8699274063110352
+D-002,PT-00046,Arjun Khan,82,Sepsis (monitor closely),Under Observation,Medium,0.44400444626808167
+D-003,PT-00047,Meera Kumar,68,Sepsis (stable),Stable,Low,0.07197093963623047
+D-004,PT-00048,Reyansh Das,69,Septic shock (suspected),Critical,High,0.9117048382759094
+D-005,PT-00049,Sara Reddy,33,Sepsis (stable),Stable,Low,0.10896916687488556
+D-001,PT-00050,Aarav Singh,50,Sepsis with multi-organ dysfunction,Stable,Low,0.33924463391304016
+D-002,PT-00051,Diya Sharma,80,Sepsis (monitor closely),Under Observation,Medium,0.6320555210113525
+D-003,PT-00052,Kabir Nair,84,Sepsis (stable),Stable,Low,0.17197634279727936
+D-004,PT-00053,Anaya Iyer,39,Sepsis (stable),Stable,Low,0.22075876593589783
+D-005,PT-00054,Vivaan Patel,64,Sepsis (stable),Stable,Low,0.2107471078634262
+D-001,PT-00055,Isha Gupta,48,Sepsis (stable),Stable,Low,0.3697158992290497
+D-002,PT-00056,Arjun Khan,63,Sepsis (stable),Stable,Low,0.21882203221321106
+D-003,PT-00057,Meera Kumar,60,Sepsis (stable),Stable,Low,0.22721000015735626
+D-004,PT-00058,Reyansh Das,80,Sepsis (stable),Stable,Low,0.34599217772483826
+D-005,PT-00059,Sara Reddy,30,Sepsis (monitor closely),Under Observation,Medium,0.4096347987651825
+D-001,PT-00060,Aarav Singh,26,Sepsis (monitor closely),Under Observation,Medium,0.5913496613502502
+D-002,PT-00061,Diya Sharma,65,Sepsis (stable),Stable,Low,0.2417285144329071
+D-003,PT-00062,Kabir Nair,69,Sepsis (stable),Stable,Low,0.22749212384223938
+D-004,PT-00063,Anaya Iyer,53,Sepsis with multi-organ dysfunction,Critical,High,0.902052640914917
+D-005,PT-00064,Vivaan Patel,58,Sepsis (stable),Stable,Low,0.207691490650177
+D-001,PT-00065,Isha Gupta,79,Sepsis (stable),Stable,Low,0.2748904526233673
+D-002,PT-00066,Arjun Khan,91,Sepsis (monitor closely),Under Observation,Medium,0.5448123812675476
+D-003,PT-00067,Meera Kumar,72,Sepsis (stable),Stable,Low,0.3407978117465973
+D-004,PT-00068,Reyansh Das,50,Sepsis (stable),Stable,Low,0.2052387148141861
+D-005,PT-00069,Sara Reddy,90,Sepsis (stable),Stable,Low,0.29859694838523865
+D-001,PT-00070,Aarav Singh,70,Sepsis (stable),Stable,Low,0.28101566433906555
+D-002,PT-00071,Diya Sharma,69,Septic shock (suspected),Critical,High,0.7972370386123657
+D-003,PT-00072,Kabir Nair,69,Sepsis (monitor closely),Under Observation,Medium,0.5491710901260376
+D-004,PT-00073,Anaya Iyer,73,Sepsis (stable),Stable,Low,0.12212468683719635
+D-005,PT-00074,Vivaan Patel,60,Sepsis (stable),Stable,Low,0.39212149381637573
+D-001,PT-00075,Isha Gupta,69,Sepsis (stable),Stable,Low,0.10130133479833603
+D-002,PT-00076,Arjun Khan,77,Sepsis (monitor closely),Under Observation,Medium,0.5800527930259705
+D-003,PT-00077,Meera Kumar,88,Sepsis (monitor closely),Under Observation,Medium,0.4220193326473236
+D-004,PT-00078,Reyansh Das,94,Septic shock (suspected),Critical,High,0.925305962562561
+D-005,PT-00079,Sara Reddy,66,Sepsis (stable),Stable,Low,0.29123544692993164
+D-001,PT-00080,Aarav Singh,48,Sepsis (monitor closely),Under Observation,Medium,0.614471971988678
+D-002,PT-00081,Diya Sharma,70,Sepsis (stable),Stable,Low,0.25271332263946533
+D-003,PT-00082,Kabir Nair,81,Sepsis (monitor closely),Under Observation,Medium,0.5558518171310425
+D-004,PT-00083,Anaya Iyer,68,Septic shock (suspected),Critical,High,0.7243577837944031
+D-005,PT-00084,Vivaan Patel,44,Sepsis (stable),Stable,Low,0.11394263058900833
+D-001,PT-00085,Isha Gupta,68,Septic shock (suspected),Critical,High,0.7119112014770508
+D-002,PT-00086,Arjun Khan,51,Sepsis (monitor closely),Under Observation,Medium,0.5805182456970215
+D-003,PT-00087,Meera Kumar,53,Sepsis (stable),Stable,Low,0.17436228692531586
+D-004,PT-00088,Reyansh Das,83,Sepsis (stable),Stable,Low,0.17953498661518097
+D-005,PT-00089,Sara Reddy,71,Septic shock (suspected),Critical,High,0.705216109752655
+D-001,PT-00090,Aarav Singh,57,Sepsis (monitor closely),Under Observation,Medium,0.6444072127342224
+D-002,PT-00091,Diya Sharma,92,Sepsis with multi-organ dysfunction,Critical,High,0.7895237803459167
+D-003,PT-00092,Kabir Nair,76,Septic shock (suspected),Critical,High,0.8055670261383057
+D-004,PT-00093,Anaya Iyer,77,Sepsis (monitor closely),Under Observation,Medium,0.5012186169624329
+D-005,PT-00094,Vivaan Patel,67,Sepsis (stable),Stable,Low,0.2769883871078491
+D-001,PT-00095,Isha Gupta,72,Sepsis (monitor closely),Under Observation,Medium,0.47099101543426514
+D-002,PT-00096,Arjun Khan,32,Sepsis (stable),Stable,Low,0.21061156690120697
+D-003,PT-00097,Meera Kumar,52,Sepsis (stable),Stable,Low,0.053742438554763794
+D-004,PT-00098,Reyansh Das,71,Sepsis (monitor closely),Under Observation,Medium,0.4087678790092468
+D-005,PT-00099,Sara Reddy,76,Sepsis (stable),Stable,Low,0.2811908423900604
+D-001,PT-00100,Aarav Singh,78,Sepsis (stable),Stable,Low,0.28312432765960693
+D-002,PT-00101,Diya Sharma,81,Sepsis with multi-organ dysfunction,Critical,High,0.8903084993362427
+D-003,PT-00102,Kabir Nair,59,Sepsis (monitor closely),Under Observation,Medium,0.5506917238235474
+D-004,PT-00103,Anaya Iyer,76,Sepsis (stable),Stable,Low,0.35128986835479736
+D-005,PT-00104,Vivaan Patel,72,Sepsis (monitor closely),Under Observation,Medium,0.644944429397583
+D-001,PT-00105,Isha Gupta,58,Sepsis (stable),Stable,Low,0.23319074511528015
+D-002,PT-00106,Arjun Khan,77,Sepsis with multi-organ dysfunction,Critical,High,0.7605091333389282
+D-003,PT-00107,Meera Kumar,58,Sepsis (stable),Stable,Low,0.10903103649616241
+D-004,PT-00108,Reyansh Das,84,Sepsis (stable),Stable,Low,0.2194695621728897
+D-005,PT-00109,Sara Reddy,81,Sepsis (monitor closely),Under Observation,Medium,0.5549290180206299
+D-001,PT-00110,Aarav Singh,59,Septic shock (suspected),Critical,High,0.7446574568748474
+D-002,PT-00111,Diya Sharma,62,Sepsis (stable),Stable,Low,0.13160714507102966
+D-003,PT-00112,Kabir Nair,67,Sepsis (stable),Stable,Low,0.07729100435972214
+D-004,PT-00113,Anaya Iyer,61,Sepsis with multi-organ dysfunction,Critical,High,0.7420507669448853
+D-005,PT-00114,Vivaan Patel,47,Septic shock (suspected),Critical,High,0.872705340385437
+D-001,PT-00115,Isha Gupta,71,Sepsis with multi-organ dysfunction,Critical,High,0.831171989440918
+D-002,PT-00116,Arjun Khan,84,Sepsis (stable),Stable,Low,0.27557751536369324
+D-003,PT-00117,Meera Kumar,62,Sepsis (monitor closely),Under Observation,Medium,0.6482751369476318
+D-004,PT-00118,Reyansh Das,51,Sepsis (stable),Stable,Low,0.17267592251300812
+D-005,PT-00119,Sara Reddy,87,Sepsis (monitor closely),Under Observation,Medium,0.6012484431266785
+D-001,PT-00120,Aarav Singh,77,Septic shock (suspected),Critical,High,0.7061467170715332
+D-002,PT-00121,Diya Sharma,42,Sepsis (stable),Stable,Low,0.2358764410018921
+D-003,PT-00122,Kabir Nair,90,Sepsis (stable),Stable,Low,0.33107179403305054
+D-004,PT-00123,Anaya Iyer,93,Septic shock (suspected),Critical,High,0.745307445526123
+D-005,PT-00124,Vivaan Patel,60,Septic shock (suspected),Critical,High,0.7215414643287659
+D-001,PT-00125,Isha Gupta,57,Sepsis (stable),Stable,Low,0.2592836022377014
+D-002,PT-00126,Arjun Khan,60,Sepsis (monitor closely),Under Observation,Medium,0.5291215181350708
+D-003,PT-00127,Meera Kumar,56,Sepsis (stable),Stable,Low,0.121006079018116
+D-004,PT-00128,Reyansh Das,68,Sepsis (stable),Stable,Low,0.1859971284866333
+D-005,PT-00129,Sara Reddy,81,Sepsis (monitor closely),Under Observation,Medium,0.4758923053741455
+D-001,PT-00130,Aarav Singh,62,Sepsis (stable),Stable,Low,0.18260616064071655
+D-002,PT-00131,Diya Sharma,83,Sepsis (stable),Stable,Low,0.297109991312027
+D-003,PT-00132,Kabir Nair,93,Septic shock (suspected),Critical,High,0.781080961227417
+D-004,PT-00133,Anaya Iyer,53,Sepsis (monitor closely),Under Observation,Medium,0.40586036443710327
+D-005,PT-00134,Vivaan Patel,82,Sepsis (monitor closely),Under Observation,Medium,0.5850810408592224
+D-001,PT-00135,Isha Gupta,48,Sepsis (stable),Stable,Low,0.12895111739635468
+D-002,PT-00136,Arjun Khan,57,Sepsis with multi-organ dysfunction,Under Observation,Medium,0.43934357166290283
+D-003,PT-00137,Meera Kumar,62,Sepsis (stable),Stable,Low,0.10314123332500458
+D-004,PT-00138,Reyansh Das,71,Sepsis (stable),Stable,Low,0.341765820980072
+D-005,PT-00139,Sara Reddy,60,Sepsis (stable),Stable,Low,0.04695313796401024
+D-001,PT-00140,Aarav Singh,84,Sepsis (monitor closely),Under Observation,Medium,0.4304089844226837
+D-002,PT-00141,Diya Sharma,53,Sepsis with multi-organ dysfunction,Under Observation,Medium,0.6560679078102112
+D-003,PT-00142,Kabir Nair,65,Sepsis with multi-organ dysfunction,Stable,Low,0.13871662318706512
+D-004,PT-00143,Anaya Iyer,85,Sepsis (stable),Stable,Low,0.1072494313120842
+D-005,PT-00144,Vivaan Patel,68,Sepsis (monitor closely),Under Observation,Medium,0.45268499851226807
+D-001,PT-00145,Isha Gupta,77,Sepsis (stable),Stable,Low,0.333374559879303
+D-002,PT-00146,Arjun Khan,61,Sepsis (stable),Stable,Low,0.3400728702545166
+D-003,PT-00147,Meera Kumar,40,Sepsis (stable),Stable,Low,0.2503088414669037
+D-004,PT-00148,Reyansh Das,67,Sepsis (stable),Stable,Low,0.1946273148059845
+D-005,PT-00149,Sara Reddy,71,Sepsis (stable),Stable,Low,0.37334805727005005
+D-001,PT-00150,Aarav Singh,38,Sepsis (stable),Stable,Low,0.2708752155303955
+D-002,PT-00151,Diya Sharma,69,Sepsis (monitor closely),Under Observation,Medium,0.6018056273460388
+D-003,PT-00152,Kabir Nair,78,Sepsis with multi-organ dysfunction,Stable,Low,0.2884305417537689
+D-004,PT-00153,Anaya Iyer,38,Sepsis (monitor closely),Under Observation,Medium,0.6629191637039185
+D-005,PT-00154,Vivaan Patel,57,Sepsis (stable),Stable,Low,0.2646874189376831
+D-001,PT-00155,Isha Gupta,94,Sepsis (stable),Stable,Low,0.27010998129844666
+D-002,PT-00156,Arjun Khan,39,Sepsis (monitor closely),Under Observation,Medium,0.5920945405960083
+D-003,PT-00157,Meera Kumar,89,Sepsis (stable),Stable,Low,0.06859911978244781
+D-004,PT-00158,Reyansh Das,83,Sepsis with multi-organ dysfunction,Stable,Low,0.3853561282157898
+D-005,PT-00159,Sara Reddy,70,Sepsis (stable),Stable,Low,0.22038975358009338
+D-001,PT-00160,Aarav Singh,72,Sepsis (monitor closely),Under Observation,Medium,0.5545811057090759
+D-002,PT-00161,Diya Sharma,62,Sepsis (stable),Stable,Low,0.11809320002794266
+D-003,PT-00162,Kabir Nair,68,Sepsis (monitor closely),Under Observation,Medium,0.4504052996635437
+D-004,PT-00163,Anaya Iyer,81,Sepsis (stable),Stable,Low,0.26964303851127625
+D-005,PT-00164,Vivaan Patel,31,Sepsis (stable),Stable,Low,0.29810628294944763
+D-001,PT-00165,Isha Gupta,69,Septic shock (suspected),Critical,High,0.736090898513794
+D-002,PT-00166,Arjun Khan,53,Sepsis (stable),Stable,Low,0.3672541677951813
+D-003,PT-00167,Meera Kumar,70,Sepsis (stable),Stable,Low,0.21807359158992767
+D-004,PT-00168,Reyansh Das,41,Sepsis (stable),Stable,Low,0.11253633350133896
+D-005,PT-00169,Sara Reddy,83,Sepsis (stable),Stable,Low,0.06885623186826706
+D-001,PT-00170,Aarav Singh,44,Sepsis with multi-organ dysfunction,Under Observation,Medium,0.4470812678337097
+D-002,PT-00171,Diya Sharma,73,Sepsis (stable),Stable,Low,0.1577185094356537
+D-003,PT-00172,Kabir Nair,86,Sepsis (monitor closely),Under Observation,Medium,0.5921027660369873
+D-004,PT-00173,Anaya Iyer,67,Sepsis (stable),Stable,Low,0.19330446422100067
+D-005,PT-00174,Vivaan Patel,70,Sepsis (stable),Stable,Low,0.09933339804410934
+D-001,PT-00175,Isha Gupta,64,Sepsis (monitor closely),Under Observation,Medium,0.690701961517334
+D-002,PT-00176,Arjun Khan,62,Sepsis (stable),Stable,Low,0.13692542910575867
+D-003,PT-00177,Meera Kumar,93,Sepsis (monitor closely),Under Observation,Medium,0.43944090604782104
+D-004,PT-00178,Reyansh Das,78,Sepsis (stable),Stable,Low,0.17975881695747375
+D-005,PT-00179,Sara Reddy,68,Sepsis (stable),Stable,Low,0.3374391198158264
+D-001,PT-00180,Aarav Singh,92,Sepsis (stable),Stable,Low,0.22962059080600739
+D-002,PT-00181,Diya Sharma,92,Sepsis with multi-organ dysfunction,Critical,High,0.885237991809845
+D-003,PT-00182,Kabir Nair,50,Sepsis (stable),Stable,Low,0.21689964830875397
+D-004,PT-00183,Anaya Iyer,51,Sepsis (stable),Stable,Low,0.06929907947778702
+D-005,PT-00184,Vivaan Patel,65,Sepsis (monitor closely),Under Observation,Medium,0.5438163876533508
+D-001,PT-00185,Isha Gupta,72,Sepsis (stable),Stable,Low,0.23147602379322052
+D-002,PT-00186,Arjun Khan,57,Sepsis with multi-organ dysfunction,Under Observation,Medium,0.4074794352054596
+D-003,PT-00187,Meera Kumar,39,Sepsis (stable),Stable,Low,0.20453229546546936
+D-004,PT-00188,Reyansh Das,46,Sepsis with multi-organ dysfunction,Critical,High,0.7984153032302856
+D-005,PT-00189,Sara Reddy,92,Sepsis (stable),Stable,Low,0.19569429755210876
+D-001,PT-00190,Aarav Singh,77,Sepsis (monitor closely),Under Observation,Medium,0.4964003562927246
+D-002,PT-00191,Diya Sharma,60,Sepsis (monitor closely),Under Observation,Medium,0.6845217347145081
+D-003,PT-00192,Kabir Nair,80,Sepsis with multi-organ dysfunction,Stable,Low,0.34107908606529236
+D-004,PT-00193,Anaya Iyer,48,Sepsis (monitor closely),Under Observation,Medium,0.6088541150093079
+D-005,PT-00194,Vivaan Patel,58,Sepsis (stable),Stable,Low,0.12579184770584106
+D-001,PT-00195,Isha Gupta,89,Sepsis (stable),Stable,Low,0.14569970965385437
+D-002,PT-00196,Arjun Khan,80,Septic shock (suspected),Critical,High,0.8918580412864685
+D-003,PT-00197,Meera Kumar,82,Sepsis (monitor closely),Under Observation,Medium,0.5195432901382446
+D-004,PT-00198,Reyansh Das,54,Sepsis (stable),Stable,Low,0.24590449035167694
+D-005,PT-00199,Sara Reddy,30,Sepsis (stable),Stable,Low,0.18389971554279327
+D-001,PT-00200,Aarav Singh,71,Sepsis (stable),Stable,Low,0.3308979868888855
+D-002,PT-00201,Diya Sharma,61,Sepsis (monitor closely),Under Observation,Medium,0.5667396187782288
+D-003,PT-00202,Kabir Nair,71,Septic shock (suspected),Critical,High,0.7151293754577637
+D-004,PT-00203,Anaya Iyer,75,Sepsis (monitor closely),Under Observation,Medium,0.6701778769493103
+D-005,PT-00204,Vivaan Patel,81,Septic shock (suspected),Critical,High,0.729629635810852
+D-001,PT-00205,Isha Gupta,55,Sepsis (monitor closely),Under Observation,Medium,0.6092681884765625
+D-002,PT-00206,Arjun Khan,86,Sepsis (monitor closely),Under Observation,Medium,0.5723171234130859
+D-003,PT-00207,Meera Kumar,49,Sepsis (monitor closely),Under Observation,Medium,0.41092878580093384
+D-004,PT-00208,Reyansh Das,83,Sepsis (monitor closely),Under Observation,Medium,0.5304511785507202
+D-005,PT-00209,Sara Reddy,48,Sepsis (stable),Stable,Low,0.08506888151168823
+D-001,PT-00210,Aarav Singh,74,Sepsis with multi-organ dysfunction,Under Observation,Medium,0.5370158553123474
+D-002,PT-00211,Diya Sharma,72,Sepsis (stable),Stable,Low,0.07439284771680832
+D-003,PT-00212,Kabir Nair,81,Sepsis (monitor closely),Under Observation,Medium,0.456300288438797
+D-004,PT-00213,Anaya Iyer,61,Sepsis (stable),Stable,Low,0.133207768201828
+D-005,PT-00214,Vivaan Patel,70,Sepsis (stable),Stable,Low,0.3450147807598114
+D-001,PT-00215,Isha Gupta,87,Sepsis (monitor closely),Under Observation,Medium,0.4003024697303772
+D-002,PT-00216,Arjun Khan,73,Sepsis (stable),Stable,Low,0.32962653040885925
+D-003,PT-00217,Meera Kumar,64,Sepsis (monitor closely),Under Observation,Medium,0.42234882712364197
+D-004,PT-00218,Reyansh Das,91,Septic shock (suspected),Critical,High,0.8669152855873108
+D-005,PT-00219,Sara Reddy,66,Sepsis (stable),Stable,Low,0.2576351761817932
+D-001,PT-00220,Aarav Singh,83,Sepsis (monitor closely),Under Observation,Medium,0.666056752204895
+D-002,PT-00221,Diya Sharma,56,Sepsis (stable),Stable,Low,0.22097685933113098
+D-003,PT-00222,Kabir Nair,77,Septic shock (suspected),Critical,High,0.7015625834465027
+D-004,PT-00223,Anaya Iyer,65,Sepsis with multi-organ dysfunction,Stable,Low,0.2618531882762909
+D-005,PT-00224,Vivaan Patel,70,Sepsis (stable),Stable,Low,0.37294232845306396
+D-001,PT-00225,Isha Gupta,84,Sepsis (stable),Stable,Low,0.23040048778057098
+D-002,PT-00226,Arjun Khan,57,Sepsis (monitor closely),Under Observation,Medium,0.4176662266254425
+D-003,PT-00227,Meera Kumar,48,Sepsis (stable),Stable,Low,0.2554459571838379
+D-004,PT-00228,Reyansh Das,86,Sepsis (stable),Stable,Low,0.3080858290195465
+D-005,PT-00229,Sara Reddy,79,Sepsis (stable),Stable,Low,0.14674057066440582
+D-001,PT-00230,Aarav Singh,25,Sepsis (stable),Stable,Low,0.1421683132648468
+D-002,PT-00231,Diya Sharma,62,Sepsis (stable),Stable,Low,0.20297031104564667
+D-003,PT-00232,Kabir Nair,60,Sepsis (stable),Stable,Low,0.24080052971839905
+D-004,PT-00233,Anaya Iyer,27,Sepsis (stable),Stable,Low,0.07384008169174194
+D-005,PT-00234,Vivaan Patel,47,Sepsis with multi-organ dysfunction,Under Observation,Medium,0.602654755115509
+D-001,PT-00235,Isha Gupta,28,Sepsis (stable),Stable,Low,0.21789561212062836
+D-002,PT-00236,Arjun Khan,62,Sepsis with multi-organ dysfunction,Under Observation,Medium,0.5859460234642029
+D-003,PT-00237,Meera Kumar,88,Sepsis (monitor closely),Under Observation,Medium,0.546428382396698
+D-004,PT-00238,Reyansh Das,32,Sepsis (monitor closely),Under Observation,Medium,0.6122573614120483
+D-005,PT-00239,Sara Reddy,67,Sepsis (stable),Stable,Low,0.19067968428134918
+D-001,PT-00240,Aarav Singh,71,Sepsis (monitor closely),Under Observation,Medium,0.48190316557884216
+D-002,PT-00241,Diya Sharma,47,Sepsis (monitor closely),Under Observation,Medium,0.6112268567085266
+D-003,PT-00242,Kabir Nair,76,Sepsis (monitor closely),Under Observation,Medium,0.4205293357372284
+D-004,PT-00243,Anaya Iyer,66,Septic shock (suspected),Critical,High,0.7327004075050354
+D-005,PT-00244,Vivaan Patel,73,Sepsis (stable),Stable,Low,0.3161700367927551
+D-001,PT-00245,Isha Gupta,47,Sepsis (monitor closely),Under Observation,Medium,0.6922058463096619
+D-002,PT-00246,Arjun Khan,40,Sepsis (stable),Stable,Low,0.14324131608009338
+D-003,PT-00247,Meera Kumar,75,Sepsis (stable),Stable,Low,0.02783055603504181
+D-004,PT-00248,Reyansh Das,68,Sepsis (stable),Stable,Low,0.18689510226249695
+D-005,PT-00249,Sara Reddy,48,Sepsis (stable),Stable,Low,0.22045844793319702

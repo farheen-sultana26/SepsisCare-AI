@@ -1,0 +1,16 @@
+Doctor_ID,Doctor_Name,Speciality,Shift
+D-001,Dr. A. Sharma,Critical Care,Day
+D-002,Dr. M. Khan,Intensivist,Night
+D-003,Dr. R. Patel,Pulmonology,Day
+D-004,Dr. S. Iyer,Nephrology,Evening
+D-005,Dr. N. Das,Infectious Disease,On-call
+D-006,Dr. J. Doe,General Duty,Day
+D-007,Dr. K. Smith,General Duty,Night
+D-008,Dr. L. Johnson,General Duty,Day
+D-009,Dr. M. Brown,General Duty,Evening
+D-010,Dr. N. White,General Duty,On-call
+D-011,Dr. O. Black,General Duty,Day
+D-012,Dr. P. Green,General Duty,Night
+D-013,Dr. Q. Gray,General Duty,Day
+D-014,Dr. R. Blue,General Duty,Evening
+D-015,Dr. S. Pink,General Duty,On-call

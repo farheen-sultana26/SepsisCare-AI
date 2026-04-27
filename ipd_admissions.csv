@@ -1,0 +1,30 @@
+Patient_ID,Patient_Name,Age,Gender,Assigned_Doctor_ID,Assigned_Doctor_Name,Diagnosis,Admission_Date,Current_Status,Created_At
+PT-00122,Kabir Nair,90,Male,D-001,Dr. A. Sharma, Cardiac ischemia,2026-03-21,Critical,2026-03-21 16:32
+PT-00000,Aarav Singh,24,Male,D-001,Dr. A. Sharma,,2026-03-21,Stable,2026-03-21 16:42
+PT-00012,Kabir Nair,58,Male,D-001,Dr. A. Sharma, Arrhythmia,2026-03-21,Under Observation,2026-03-21 16:51
+PT-00035,Isha Gupta,85,Male,D-003,Dr. R. Patel,: Pneumonia,2026-03-20,Critical,2026-03-21 17:05
+PT-00003,Anaya Iyer,76,Male,D-003,Dr. R. Patel,Viral URTI,2026-03-21,Stable,2026-03-21 17:24
+PT-00063,Anaya Iyer,53,Male,D-003,Dr. R. Patel,Bronchitis,2026-03-21,Stable,2026-03-21 17:31
+PT-00057,Meera Kumar,60,Male,D-003,Dr. R. Patel,,2026-03-21,Stable,2026-03-21 17:41
+PT-00022,Kabir Nair,69,Male,D-003,Dr. R. Patel," Pneumonia
+",2026-03-21,Under Observation,2026-03-21 17:52
+PT-00091,Diya Sharma,92,Male,D-004,Dr. S. Iyer,sepsis,2026-03-21,Critical,2026-03-21 18:00
+PT-00101,Diya Sharma,81,Male,D-004,Dr. S. Iyer,Renal failure,2026-03-21,Critical,2026-03-21 18:08
+PT-00050,Aarav Singh,50,Male,D-001,Dr. A. Sharma,,2026-03-21,Critical,2026-03-21 18:12
+PT-00077,Meera Kumar,88,Male,D-004,Dr. S. Iyer,,2026-03-21,Stable,2026-03-21 18:18
+PT-00015,Isha Gupta,56,Male,D-004,Dr. S. Iyer,,2026-03-21,Under Observation,2026-03-21 18:24
+PT-00076,Arjun Khan,77,Male,D-005,Dr. N. Das,Liver failure,2026-03-18,Critical,2026-03-21 22:10
+PT-00065,Isha Gupta,79,Male,D-005,Dr. N. Das,Cirrhosis,2026-03-21,Critical,2026-03-21 22:21
+PT-00041,Diya Sharma,91,Male,D-005,Dr. N. Das,Mild hepatitis,2026-03-21,Stable,2026-03-21 22:27
+PT-00024,Vivaan Patel,79,Male,D-001,Dr. A. Sharma, Fatty liver,2026-03-21,Stable,2026-03-21 22:30
+PT-00036,Arjun Khan,54,Male,D-001,Dr. A. Sharma,,2026-03-21,Under Observation,2026-03-21 22:37
+PT-00018,Reyansh Das,76,Male,D-005,Dr. N. Das,Septic shock,2026-03-21,Critical,2026-03-21 22:45
+PT-00027,Meera Kumar,66,Male,D-003,Dr. R. Patel,Pneumonia,2026-03-20,Under Observation,2026-03-21 22:51
+PT-00044,Vivaan Patel,63,Male,D-001,Dr. A. Sharma,GERD,2026-03-19,Stable,2026-03-21 22:55
+PT-00066,Arjun Khan,91,Male,D-004,Dr. S. Iyer,Acute renal failure,2026-03-21,Critical,2026-03-21 22:59
+PT-00072,Kabir Nair,69,Male,D-005,Dr. N. Das, Hepatitis,2026-03-20,Under Observation,2026-03-21 23:04
+PT-00088,Reyansh Das,83,Male,D-003,Dr. R. Patel,Viral respiratory infection,2026-03-19,Stable,2026-03-21 23:08
+PT-00095,Isha Gupta,72,Male,D-001,Dr. A. Sharma,Myocardial infarction,2026-03-21,Critical,2026-03-21 23:12
+PT-00110,Aarav Singh,59,Male,D-004,Dr. S. Iyer,Chronic kidney disease,2026-03-20,Under Observation,2026-03-21 23:16
+PT-00135,Isha Gupta,48,Male,D-005,Dr. N. Das, Mild liver dysfunction,2026-03-19,Stable,2026-03-21 23:19
+PT-00149,Sara Reddy,71,Male,D-005,Dr. N. Das, Septic shock,2026-03-21,Critical,2026-03-21 23:24

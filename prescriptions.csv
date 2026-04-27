@@ -1,0 +1,58 @@
+Patient_ID,Created_At,Medication,Dose,Route,Frequency,Duration,Indication,Prescriber,Notes
+PT-00010,2026-03-21 16:04, Aspirin,325mg,PO,stat,1 day, Myocardial infarction,Dr. A. Sharma,Immediate administration
+PT-00010,2026-03-21 16:06,Heparin,5000 IU,IV,q12h,5 days , Anticoagulation,Dr. A. Sharma, Monitor aPTT
+PT-00010,2026-03-21 16:06,Heparin,5000 IU,IV,q12h,5 days , Anticoagulation,Dr. A. Sharma, Monitor aPTT
+PT-00010,2026-03-21 16:06,Heparin,5000 IU,IV,q12h,5 days , Anticoagulation,Dr. A. Sharma, Monitor aPTT
+PT-00010,2026-03-21 16:06,Heparin,5000 IU,IV,q12h,5 days , Anticoagulation,Dr. A. Sharma, Monitor aPTT
+PT-00010,2026-03-21 16:06,Heparin,5000 IU,IV,q12h,5 days , Anticoagulation,Dr. A. Sharma, Monitor aPTT
+PT-00010,2026-03-21 16:06,Heparin,5000 IU,IV,q12h,5 days , Anticoagulation,Dr. A. Sharma, Monitor aPTT
+PT-00122,2026-03-21 16:26,Clopidogrel,75mg,PO,od,7days,Prevent clot formation, Dr. A. Sharma, Continue monitoring
+PT-00000,2026-03-21 16:36,* Atenolol,50mg,PO,OD,10 DAYS, Control heart rate,Dr. A. Sharma, Take after food
+PT-00012,2026-03-21 16:48,Metoprolol,25mg,PO,OD,7 days,Heart rate control,: Dr. A. Sharma,
+PT-00035,2026-03-21 16:55,Ceftriaxone,1mg,IV,BD,7 days, Bacterial pneumonia,Dr. R. Pate,Monitor infection
+PT-00035,2026-03-21 16:57,Oxygen Therapy, 5 L/min,IV,continuous,As required,Low oxygen saturation,Dr. R. Pate,
+PT-00003,2026-03-21 17:11,Paracetamol,500mg,PO,sos,3 days,Fever/cough,Dr. R. Patel,
+PT-00063,2026-03-21 17:28,Cough Syrup,10ml,PO,TID,5 days,Cough relief, Dr. R. Patel,
+PT-00057,2026-03-21 17:37,Salbutamol Inhaler,2 puffs,IV,sos,10 days, Asthma,Dr. R. Patel,
+PT-00022,2026-03-21 17:48,Azithromycin,500mg,PO,OD,5 days,Infection, Dr. R. Patel,
+PT-00091,2026-03-21 17:56,Piperacillin/Tazobactam,4.5mg,IV,q6h,5 days,Sepsis,Dr. S. Iyer,
+PT-00101,2026-03-21 18:05,Furosemide,40mg,IV,BD,5 days,,Dr. S. Iyer,
+PT-00050,2026-03-21 18:11,dialysis,,IV,,,,,
+PT-00077,2026-03-21 18:16,Fluid management,,IV,,,,Dr.s.iyer,
+PT-00015,2026-03-21 18:23,ACE inhibitors ,,IV,,,,dr.s.Iyer,
+PT-00076,2026-03-21 18:31,Lactulose,30 ml,PO,TID,7 days, Hepatic encephalopathy,Dr. N. Das,Monitor bowel movements
+PT-00076,2026-03-21 18:33,Lactulose,30 ml,PO,TID,7 days, Hepatic encephalopathy,Dr. N. Das,Monitor bowel movements
+PT-00065,2026-03-21 22:18, Spironolactone,100mg,PO,OD,10 days,Ascites,Dr. N. Das,
+PT-00041,2026-03-21 22:26, Multivitamins, 1 tablet,PO,OD,10 days,,* Dr. N. Das,
+PT-00024,2026-03-21 22:28, Liver supplements,,IV,,,,,
+PT-00053,2026-03-21 22:32, Supportive care,,IV,,,,,
+PT-00081,2026-03-21 22:34,Ursodeoxycholic acid,300mg,PO,BD,10 days,,Dr. N. Das,
+PT-00036,2026-03-21 22:36, Antivirals,,IV,,,,,
+PT-00018,2026-03-21 22:41,Piperacillin/Tazobactam,4.5mg,IV,q6h,7 days,Broad-spectrum antibiotic for sepsis, Dr. N. Das,Monitor renal function
+PT-00018,2026-03-21 22:43,Noradrenaline, 0.1 mcg/kg/min,IV,Continuous,Asrequired, Hypotension, Dr. N. Das,"
+ Titrate to maintain MAP"
+PT-00018,2026-03-21 22:44,V Fluids (Normal Saline),1L bolus,IV, As needed,24 hour24 hours,Fluid resuscitation, Dr. N. Das,"
+ Titrate to maintain MAP"
+PT-00027,2026-03-21 22:48,Azithromycin,500mg,PO,OD,5 days,Bacterial infection,Dr. R. Patel,
+PT-00027,2026-03-21 22:49, Paracetamol,650mg,PO,SOS,3 days, Fever,Dr. R. Patel,
+PT-00027,2026-03-21 22:50, Oxygen Therapy, 3 L/min,PO,: Continuous, As required, Fever,Dr. R. Patel,
+PT-00044,2026-03-21 22:53, Pantoprazole,40 mg,PO,OD,7 days,Acid reflux,,
+PT-00044,2026-03-21 22:54, Antacid Syrup,10 ml,PO,TID,5days,Acid reflux,,
+PT-00066,2026-03-21 22:57,Furosemide,40 mg,IV,BD,5 days, Fluid overload,,
+PT-00066,2026-03-21 22:58, Dialysis,As per schedule,IV, Alternate days,: As required,,,
+PT-00066,2026-03-21 22:59,n: IV Fluids,Controlled infusion,IV, Alternate days,: As required,,,
+PT-00072,2026-03-21 23:02, Ursodeoxycholic acid,300 mg,PO,BD,10 days,,,
+PT-00072,2026-03-21 23:02, Multivitamins ,1 tablet,PO,BD,,,,
+PT-00072,2026-03-21 23:02, Multivitamins ,1 tablet,PO,BD,,,,
+PT-00088,2026-03-21 23:06,aracetamol,500mg,PO,sos,3 days,Symptomatic relief,,
+PT-00088,2026-03-21 23:07, Cough Syrup,10ml,PO,TID,5 days, Dry cough relief,,
+PT-00095,2026-03-21 23:10, Aspirin,325 mg,PO, stat,1 day,MI,,
+PT-00095,2026-03-21 23:11,Heparin,5000 IU,IV,q12h,5 day,MI,,
+PT-00095,2026-03-21 23:12,Nitroglycerin,Infusion,IV,Continuous,A required,MI,,
+PT-00110,2026-03-21 23:15,Enalapril, 5 mg,PO, Blood pressure control,10 days,,,
+PT-00110,2026-03-21 23:15, Furosemide,20 5 mg,PO,OD,7 days,,,
+PT-00135,2026-03-21 23:18,Multivitamins,1 tablet,PO,OD,10 days,,,
+PT-00135,2026-03-21 23:19,Liver Support Supplement,5 ml,PO,BD,7 days,,,
+PT-00000,2026-03-21 23:22,Meropenem,1 g,IV,q8h,7 days,Severe infection,,
+PT-00000,2026-03-21 23:22, Noradrenaline,0.15 mcg/kg/min,IV,continuous, As required,,,
+PT-00000,2026-03-21 23:23,IV Fluids,1L bolus,IV,, As   needed,,,

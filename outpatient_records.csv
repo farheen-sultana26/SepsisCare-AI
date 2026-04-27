@@ -1,0 +1,21 @@
+Patient_ID,Patient_Name,Age,Gender,Contact,Visit_Date,Reason_For_Visit,Diagnosis,Treatment_Provided,Prescribed_Medicines,Lab_Test_Results,Doctor_Consulted,Discharge_Final_Diagnosis,Discharge_Treatment_Summary,Discharge_Advice,Follow_Up_Details,Created_At
+OPD-00010,Ramesh Kumar,58,Male,9876543210.0,2026-03-21,Severe chest pain,Acute coronary syndrome,"ECG, cardiac enzyme test, stabilization","Aspirin, Atorvastatin","Aspirin, Atorvastatin",Dr. A. Sharma,Myocardial infarction,Stabilized and shifted to ICU,"Strict bed rest, avoid exertion",Cardiology review after 1 week,2026-03-21 16:17
+OPD-00001, Suresh Reddy,62,Male,9123456780.0,2026-03-20, Chest pain,Unstable angina,ECG monitoring,"Clopidogrel
+",,Dr. A. Sharma, Cardiac ischemia, Stabilized,avoid stress,5 days,2026-03-21 16:31
+OPD-00009,Ravi Kumar,45,Male,,2026-03-21, Mild chest pain, Stable angina,medication,,,Dr. A. Sharma,,,,,2026-03-21 16:40
+OPD-00012,,0,Male,,2026-03-21,, Arrhythmia,,,,, Arrhythmia,, Monitoring,,2026-03-21 16:50
+OPD-00035,Arjun Singh,60,Male,9001234567.0,2026-03-20," Breathlessness and fever
+
+", Severe pneumonia,Antibiotics and oxygen support, Ceftriaxone,Elevated WBC, Dr. R. Patel, Pneumonia, Oxygen support and antibiotics given,Rest and hydration,3 days,2026-03-21 17:04
+OPD-00003, Kiran Kumar,25,Male,9012345678.0,2026-03-19, Mild cough ,Viral infection, Symptomatic,,,Dr. R. Patel,Viral URTI,Stable ,Hydration, If symptoms worsen,2026-03-21 17:18
+OPD-00063,,0,Male,,2026-03-21,,,,,,,Bronchitis,,Avoid cold exposure,,2026-03-21 17:30
+OPD-00057,,0,Male,,2026-03-21,,Asthma,,,, Dr. R. Patel,,,Avoid triggers,,2026-03-21 17:39
+OPD-00022,,0,Male,,2026-03-21,, Pneumonia,Antibiotics,,,,,,,,2026-03-21 17:49
+OPD-00091,,0,Male,,2026-03-21,, Sepsis,Emergency care,,, Dr. S. Iyer,sepsis,Emergency care,,,2026-03-21 17:58
+OPD-00101,,0,Male,,2026-03-21,"renal problem
+", Renal failure,,,, Dr. S. Iyer,,,,,2026-03-21 18:07
+OPD-00076,Imran Khan,55,Male,9870012345.0,2026-03-18,Jaundice and fatigue, Acute liver failure,Supportive therapy,Lactulose,Elevated bilirubin,Dr. N. Das,Liver failure, Stabilized with supportive care,Strict alcohol abstinence, 1 week,2026-03-21 22:08
+OPD-00065,Ahmed Ali,60,Male,9123001122.0,2026-03-17, Abdominal swelling, Cirrhosis,Diuretics,,, Dr. N. Das, Liver cirrhosis,Managed with medication,Low salt diet,1 week,2026-03-21 22:21
+OPD-00024,,30,Male,,2026-03-21,,Fatty liver,,,,,: Fatty liver,,Diet control,,2026-03-21 22:30
+OPD-00081,,30,Male,,2026-03-21,,Chronic liver disease,,,,,Chronic liver disease,, Regular monitoring,,2026-03-21 22:34
+OPD-00036,,30,Male,,2026-03-21,, Hepatitis B,,,,, Hepatitis B,, Avoid alcohol,,2026-03-21 22:37

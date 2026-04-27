@@ -1,0 +1,52 @@
+Patient_ID,Created_At,Chief_Complaint,History_of_Present_Illness,Past_Medical_History,Allergies,Vitals,Labs,Assessment_Notes
+PT-00010,2026-03-21 16:02,"Severe chest pain, sweating, breathlessness",Sudden onset chest pain radiating to left arm for 1 hour with nausea,"Hypertension, smoking", No known allergies,"HR=115, SBP=85, SpO2=90","Lactate=3.2, WBC=13.0, Creatinine=1.5","*  Acute myocardial infarction with cardiogenic shock
+"
+PT-00122,2026-03-21 16:22,"Chest tightness, fatigue","Recurrent chest pain for 2 days, worsens on exertio",Diabetes,,"HR=108, SBP=88, SpO2=91","Lactate=6.5, WBC=12.0, Creatinine=1.4",Unstable angina
+PT-00122,2026-03-21 16:23,"Chest tightness, fatigue","Recurrent chest pain for 2 days, worsens on exertio",Diabetes,,"HR=108, SBP=88, SpO2=91","Lactate=6.5, WBC=12.0, Creatinine=1.4",Unstable angina
+PT-00122,2026-03-21 16:23,"Chest tightness, fatigue","Recurrent chest pain for 2 days, worsens on exertio",Diabetes,,"HR=108, SBP=88, SpO2=91","Lactate=6.5, WBC=12.0, Creatinine=1.4",Unstable angina
+PT-00122,2026-03-21 16:23,"Chest tightness, fatigue","Recurrent chest pain for 2 days, worsens on exertio",Diabetes,,"HR=108, SBP=88, SpO2=91","Lactate=6.5, WBC=12.0, Creatinine=1.4",Unstable angina
+PT-00122,2026-03-21 16:23,"Chest tightness, fatigue","Recurrent chest pain for 2 days, worsens on exertio",Diabetes,,"HR=108, SBP=88, SpO2=91","Lactate=6.5, WBC=12.0, Creatinine=1.4",Unstable angina
+PT-00122,2026-03-21 16:23,"Chest tightness, fatigue","Recurrent chest pain for 2 days, worsens on exertio",Diabetes,,"HR=108, SBP=88, SpO2=91","Lactate=6.5, WBC=12.0, Creatinine=1.4",Unstable angina
+PT-00009,2026-03-21 16:34,Mild chest discomfort,"Occasional pain during exertion
+", None,,"HR=80, SBP=120, SpO2=97","Lactate=1.2, WBC=7.0, Creatinine=1.0",Stable angina
+PT-00012,2026-03-21 16:44, Palpitations, Irregular heartbeat episodes,,,"HR=105, SBP=130, SpO2=95","Lactate=0.0, WBC=0.0, Creatinine=0.0",Arrhythmia
+PT-00035,2026-03-21 16:53,"Severe breathlessness, fever, cough"," Productive cough with yellow sputum for 5 days, worsening breathlessness"," Chronic smoker
+",No known allergies,"HR=120, SBP=90, SpO2=85","Lactate=2.6, WBC=16.0, Creatinine=1.2",Assessment Notes:
+PT-00003,2026-03-21 17:09, Mild cough," Dry cough for 2 days, no fever
+",none,none,"HR=78, SBP=118, SpO2=98","Lactate=1.1, WBC=6.0, Creatinine=0.9",Viral upper respiratory infection
+PT-00063,2026-03-21 17:26, Dry cough,Persistent cough without fever,,,"HR=82, SBP=122, SpO2=97","Lactate=0.0, WBC=0.0, Creatinine=0.0",Bronchitis
+PT-00057,2026-03-21 17:34, Wheezing,Breathlessness on exertion,,,"HR=90, SBP=120, SpO2=96","Lactate=0.0, WBC=0.0, Creatinine=0.0",Mild asthma
+PT-00022,2026-03-21 17:43," * Chief Complaint: Fever, cough", 4 days cough with mild breathlessness,,,"HR=100, SBP=115, SpO2=92","Lactate=1.8, WBC=1.3, Creatinine=0.0",Moderate pneumonia
+PT-00091,2026-03-21 17:54," Fever, confusion, low urine output",3 days fever with altered mental status, Diabetes,,"HR=120, SBP=85, SpO2=89","Lactate=3.5, WBC=18.0, Creatinine=3.8",Septic shock with renal failure
+PT-00101,2026-03-21 18:02, Reduced urine output,2 days oliguria,,,"HR=110, SBP=90, SpO2=0","Lactate=0.0, WBC=0.0, Creatinine=4.0",Acute renal failure
+PT-00050,2026-03-21 18:10,": Swelling, decreased urine",,,,"HR=90, SBP=110, SpO2=95","Lactate=1.8, WBC=9.5, Creatinine=3.5",Severe AKI
+PT-00077,2026-03-21 18:13,Mild swelling,,,,"HR=90, SBP=110, SpO2=95","Lactate=1.8, WBC=9.5, Creatinine=1.5",Mild kidney dysfunction
+PT-00015,2026-03-21 18:20,Fatigue,,,,"HR=90, SBP=110, SpO2=95","Lactate=1.8, WBC=9.5, Creatinine=1.0",Chronic kidney disease
+PT-00076,2026-03-21 18:28," Jaundice, confusion, fatigue", Progressive yellowing of eyes and skin for 1 week with altered mental status, Chronic alcohol use,No known allergies,"HR=102, SBP=95, SpO2=95","Lactate=2.7, WBC=14.0, Creatinine=1.6"," Acute liver failure with hepatic encephalopathy
+"
+PT-00065,2026-03-21 22:12," Abdominal swelling, weakness",Progressive abdominal distension and fatigue,Chronic liver disease,,"HR=98, SBP=92, SpO2=94","Lactate=2.3, WBC=13.0, Creatinine=1.8",Liver cirrhosis with ascites
+PT-00041,2026-03-21 22:23,Mild fatigue,General weakness for few days,,,"HR=82, SBP=120, SpO2=98","Lactate=1.2, WBC=7.0, Creatinine=1.0", Mild hepatitis
+PT-00024,2026-03-21 22:28, Indigestion,,,,"HR=80, SBP=118, SpO2=97","Lactate=1.8, WBC=9.5, Creatinine=1.0","*  Fatty liver
+"
+PT-00053,2026-03-21 22:31,Mild abdominal discomfort,,,,"HR=85, SBP=122, SpO2=95","Lactate=1.8, WBC=9.5, Creatinine=1.0", Mild liver dysfunction
+PT-00081,2026-03-21 22:33," Fatigue, appetite loss",,,,"HR=90, SBP=110, SpO2=95","Lactate=1.8, WBC=9.5, Creatinine=1.0", Chronic liver disease
+PT-00036,2026-03-21 22:36,Jaundice,Yellow discoloration for 3 days,,,"HR=92, SBP=115, SpO2=96","Lactate=1.8, WBC=9.5, Creatinine=1.0"," Hepatitis B
+"
+PT-00018,2026-03-21 22:40," High fever, confusion, generalized weakness","Patient presented with 3 days history of high-grade fever, chills, and altered mental status. Condition worsened with hypotension and decreased urine output.","Type 2 Diabetes Mellitus, Hypertension", No known drug allergies,"HR=122, SBP=82, SpO2=95","Lactate=3.8, WBC=19.5, Creatinine=2.5",Septic shock with multi-organ dysfunction
+PT-00027,2026-03-21 22:47," Fever, cough with sputum, breathlessness","Patient reports 4 days history of productive cough with yellow sputum, moderate fever, and mild breathlessness on exertion.", No significant history,none,"HR=98, SBP=118, SpO2=92","Lactate=1.9, WBC=12.5, Creatinine=1.0", Moderate community-acquired pneumonia
+PT-00044,2026-03-21 22:52, Mild chest discomfort after meals,"Intermittent chest discomfort not related to exertion, relieved by antacids", Gastritis,* None,"HR=78, SBP=120, SpO2=98","Lactate=1.1, WBC=6.5, Creatinine=1.0", Non-cardiac chest pain (likely GERD)
+PT-00066,2026-03-21 22:56," Reduced urine output, swelling",Progressive decrease in urine output over 2 days with pedal edema and fatigue, Hypertension,none,"HR=110, SBP=88, SpO2=95","Lactate=2.9, WBC=11.0, Creatinine=4.2",Acute renal failure
+PT-00072,2026-03-21 23:01," Jaundice, loss of appetite", Yellow discoloration of eyes and skin for 4 days with fatigue,Occasional alcohol use,none,"HR=90, SBP=110, SpO2=95","Lactate=1.8, WBC=9.5, Creatinine=1.2", Hepatitis
+PT-00072,2026-03-21 23:01," Jaundice, loss of appetite", Yellow discoloration of eyes and skin for 4 days with fatigue,Occasional alcohol use,none,"HR=90, SBP=110, SpO2=95","Lactate=1.8, WBC=9.5, Creatinine=1.2", Hepatitis
+PT-00088,2026-03-21 23:05," Mild cough, throat irritation","Dry cough for 2 days with no fever or breathlessness, symptoms mild and intermittent",No significant history,No known allergies,"HR=80, SBP=118, SpO2=98","Lactate=1.1, WBC=6.5, Creatinine=1.0","* Viral upper respiratory infection
+
+"
+PT-00095,2026-03-21 23:10," Severe chest pain, sweating, dizziness",Sudden onset chest pain for 1 hour with radiation to left arm and associated sweating and dizziness,"Hypertension, smoker",,"HR=118, SBP=85, SpO2=90","Lactate=3.0, WBC=12.0, Creatinine=1.4",Acute myocardial infarctio
+PT-00110,2026-03-21 23:14,"Swelling in legs, fatigue","Gradual onset swelling over 1 week with decreased urine output
+",Diabetes,none,"HR=92, SBP=130, SpO2=95","Lactate=1.7, WBC=9.0, Creatinine=2.5",Chronic kidney disease
+PT-00135,2026-03-21 23:17,": Mild fatigue, weakness", Generalized tiredness for a few days without jaundice,"none
+",none,"HR=84, SBP=120, SpO2=98","Lactate=1.3, WBC=7.0, Creatinine=1.0",Mild liver dysfunction
+PT-00149,2026-03-21 23:21,"High fever, hypotension, confusion","Fever for 3 days with chills, progressing to low blood pressure and altered sensorium",none,none,"HR=125, SBP=80, SpO2=87","Lactate=14.0, WBC=20.0, Creatinine=2.8","s: Severe sepsis with septic shock
+"
+PT-00149,2026-03-21 23:21,"High fever, hypotension, confusion","Fever for 3 days with chills, progressing to low blood pressure and altered sensorium",none,none,"HR=125, SBP=80, SpO2=87","Lactate=14.0, WBC=20.0, Creatinine=2.8","s: Severe sepsis with septic shock
+"
