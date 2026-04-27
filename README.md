@@ -86,5 +86,3 @@ Aspiring AI/ML Engineer
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and share your feedback!
-pip install -r requirements.txt
-streamlit run app.py
