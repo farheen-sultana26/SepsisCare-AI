@@ -39,7 +39,7 @@ SepsisCare AI is an AI-powered ICU decision support system designed to assist in
 
 ## ⚙️ How to Run Locally
 
-```bash
+bash
 pip install -r requirements.txt
 streamlit run app.py
 
@@ -85,6 +85,4 @@ Aspiring AI/ML Engineer
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and share your feedback!
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+
